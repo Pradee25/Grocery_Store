@@ -12,3 +12,4 @@
 ![Screenshot 2024-01-30 165303](https://github.com/Pradee25/Grocery_Store/assets/138117418/caca98fb-e277-4ee7-b040-26dacd80cabd)
 ![Screenshot 2024-01-30 165323](https://github.com/Pradee25/Grocery_Store/assets/138117418/9ce1dda1-e18b-434f-b3cd-ff9529cf75ca)
 ![Screenshot 2024-01-30 165509](https://github.com/Pradee25/Grocery_Store/assets/138117418/8ea823c9-4e6a-4425-a9cf-a797e0910493)
+[Signup.txt](https://github.com/Pradee25/Grocery_Store/files/14107099/Signup.txt)
